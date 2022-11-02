@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyButtonCreate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a19295dd-8262-4acb-aabf-91d55d3d1dd6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8f73438-e882-4baf-a633-6abe24e85cbc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Danh sách vai trò'</defaultValue>
+      <description></description>
+      <id>d8f73438-e882-4baf-a633-6abe24e85cbc</id>
+      <masked>false</masked>
+      <name>tableTitle</name>
+   </variable>
+</TestCaseEntity>

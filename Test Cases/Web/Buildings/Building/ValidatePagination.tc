@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidatePagination</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bad451d2-909f-4257-8656-9e4a26c374c9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9246b789-2151-435e-a5e1-5199a101fe00</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1eb330bd-bb53-464e-b2c4-affb6a6156ba</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9246b789-2151-435e-a5e1-5199a101fe00</id>
+      <masked>false</masked>
+      <name>row</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1eb330bd-bb53-464e-b2c4-affb6a6156ba</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+</TestCaseEntity>

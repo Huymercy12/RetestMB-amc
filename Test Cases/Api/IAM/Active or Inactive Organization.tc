@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Active or Inactive Organization</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83b7015c-21cc-4711-a64a-3dcca3196256</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dd61a977-08a1-4519-94b2-a367dd0a11c8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2acb8a53-5c8d-40d0-99a3-78b36a088251</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6f70f076-74b1-4f4a-9b6e-c8404b7b826a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dd61a977-08a1-4519-94b2-a367dd0a11c8</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2acb8a53-5c8d-40d0-99a3-78b36a088251</id>
+      <masked>false</masked>
+      <name>success</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6f70f076-74b1-4f4a-9b6e-c8404b7b826a</id>
+      <masked>false</masked>
+      <name>statusCode</name>
+   </variable>
+</TestCaseEntity>

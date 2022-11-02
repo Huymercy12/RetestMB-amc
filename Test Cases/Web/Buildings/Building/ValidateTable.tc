@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidateTable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeec4591-33f4-4e75-a8e1-c0a0f71d96e8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c13b794d-fbde-4c28-bcf8-53bf80e5a7b3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>64ce2540-088f-425a-a3bf-6eb2997ea926</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e51d3860-0e1d-40d3-99d9-abd0db4f9ac7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4e3c365-ce5b-42fb-924e-88c6a47edd33</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ffbe762-0c33-4096-9161-43c75d7f2c62</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b12c9831-50d8-4621-b7dc-8885c7b07b7b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c0b79b87-ecaf-4cb5-80a7-64f035a71c81</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27b289a5-ae6f-4102-8f9d-c46ccbb49073</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b91bcb2a-4d39-44b4-9c52-343ef02f89b2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Danh sách tòa nhà'</defaultValue>
+      <description></description>
+      <id>c13b794d-fbde-4c28-bcf8-53bf80e5a7b3</id>
+      <masked>false</masked>
+      <name>titleTable</name>
+   </variable>
+   <variable>
+      <defaultValue>'STT'</defaultValue>
+      <description></description>
+      <id>64ce2540-088f-425a-a3bf-6eb2997ea926</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mã tòa'</defaultValue>
+      <description></description>
+      <id>e51d3860-0e1d-40d3-99d9-abd0db4f9ac7</id>
+      <masked>false</masked>
+      <name>buildingCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tên tòa'</defaultValue>
+      <description></description>
+      <id>f4e3c365-ce5b-42fb-924e-88c6a47edd33</id>
+      <masked>false</masked>
+      <name>buildingName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Diện tích (m2)'</defaultValue>
+      <description></description>
+      <id>5ffbe762-0c33-4096-9161-43c75d7f2c62</id>
+      <masked>false</masked>
+      <name>buildingArea</name>
+   </variable>
+   <variable>
+      <defaultValue>'Số tầng'</defaultValue>
+      <description></description>
+      <id>b12c9831-50d8-4621-b7dc-8885c7b07b7b</id>
+      <masked>false</masked>
+      <name>floor</name>
+   </variable>
+   <variable>
+      <defaultValue>'Địa chỉ'</defaultValue>
+      <description></description>
+      <id>c0b79b87-ecaf-4cb5-80a7-64f035a71c81</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+   <variable>
+      <defaultValue>'Trạng thái'</defaultValue>
+      <description></description>
+      <id>27b289a5-ae6f-4102-8f9d-c46ccbb49073</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hành động'</defaultValue>
+      <description></description>
+      <id>b91bcb2a-4d39-44b4-9c52-343ef02f89b2</id>
+      <masked>false</masked>
+      <name>action</name>
+   </variable>
+</TestCaseEntity>

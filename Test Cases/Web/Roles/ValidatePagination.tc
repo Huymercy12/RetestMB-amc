@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidatePagination</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82ad7346-b6fa-45a6-9c0a-668d593eef86</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8402aa6f-a220-4ddf-958f-f8fdac9fc455</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8402aa6f-a220-4ddf-958f-f8fdac9fc455</id>
+      <masked>false</masked>
+      <name>number</name>
+   </variable>
+</TestCaseEntity>

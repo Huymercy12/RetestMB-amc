@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ActiveAndInactiveBuilding</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46c23d15-1881-418a-bdfc-e464469bf349</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07e0dbe0-483b-4d5c-8994-9dbf248ae611</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ff056b0-2981-46a7-91e1-0cfa34f6b2d0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa14999d-27bc-4e8e-8417-37bd94f4d4b9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ceef7d65-c27e-42f4-a1ac-318eb64cf1e9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9e03f823-d1a0-4c27-9688-54771aa8597b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07e0dbe0-483b-4d5c-8994-9dbf248ae611</id>
+      <masked>false</masked>
+      <name>buildingCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ff056b0-2981-46a7-91e1-0cfa34f6b2d0</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Xác nhận khóa tòa nhà'</defaultValue>
+      <description></description>
+      <id>aa14999d-27bc-4e8e-8417-37bd94f4d4b9</id>
+      <masked>false</masked>
+      <name>titlePopupLock</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mở khóa tòa nhà'</defaultValue>
+      <description></description>
+      <id>ceef7d65-c27e-42f4-a1ac-318eb64cf1e9</id>
+      <masked>false</masked>
+      <name>titlePopupUnlock</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tòa nhà đang có nhân viên'</defaultValue>
+      <description></description>
+      <id>9e03f823-d1a0-4c27-9688-54771aa8597b</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>

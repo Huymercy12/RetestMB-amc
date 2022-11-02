@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AccountType</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ef7eca6-f45d-4929-ae77-87fba5165d45</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6f108e8c-5e65-4027-a839-f67a06222390</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>193f6b10-7f56-4137-83c4-c94a0c9a8dbd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>72ff6cf3-ba41-4c52-8e0d-3873d87c8bd8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6f108e8c-5e65-4027-a839-f67a06222390</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>193f6b10-7f56-4137-83c4-c94a0c9a8dbd</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>72ff6cf3-ba41-4c52-8e0d-3873d87c8bd8</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+</TestCaseEntity>

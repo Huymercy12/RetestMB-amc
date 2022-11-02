@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidatePagination</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>399e82b7-fcd0-49e0-a4b3-9a72be96f553</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c5a1991-3911-46f8-b388-d27c1399e646</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1aa66737-58fa-4afb-8e74-d31901d85e96</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0c5a1991-3911-46f8-b388-d27c1399e646</id>
+      <masked>false</masked>
+      <name>numberRow</name>
+   </variable>
+   <variable>
+      <defaultValue>'EVO_IAM.ORGANIZATION'</defaultValue>
+      <description></description>
+      <id>1aa66737-58fa-4afb-8e74-d31901d85e96</id>
+      <masked>false</masked>
+      <name>tableDatabase</name>
+   </variable>
+</TestCaseEntity>

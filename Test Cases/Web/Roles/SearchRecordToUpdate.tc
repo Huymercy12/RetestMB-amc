@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchRecordToUpdate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2474300e-e2ea-45ca-be7a-5033133da4ac</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>747321d6-ff90-4cea-9ce8-e2092ead68da</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cập nhật thành công'</defaultValue>
+      <description></description>
+      <id>747321d6-ff90-4cea-9ce8-e2092ead68da</id>
+      <masked>false</masked>
+      <name>messageSuccess</name>
+   </variable>
+</TestCaseEntity>

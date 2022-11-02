@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchRecordCreate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6e74c3d-2fe7-4027-9a97-b41b6bc8b778</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c30059eb-2a81-4861-a0a4-fff0c408fd82</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Mã code đã đăng ký'</defaultValue>
+      <description></description>
+      <id>c30059eb-2a81-4861-a0a4-fff0c408fd82</id>
+      <masked>false</masked>
+      <name>messageError</name>
+   </variable>
+</TestCaseEntity>

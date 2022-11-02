@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyButtonUpdate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4effac5d-370d-46c2-93e4-5a9a0b302d95</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>412434ca-79b5-4848-bbaa-43dbf5554f32</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee6eb1da-7f85-429a-94ba-574e8fc7a2ea</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Danh sách vai trò'</defaultValue>
+      <description></description>
+      <id>412434ca-79b5-4848-bbaa-43dbf5554f32</id>
+      <masked>false</masked>
+      <name>tableTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hành động'</defaultValue>
+      <description></description>
+      <id>ee6eb1da-7f85-429a-94ba-574e8fc7a2ea</id>
+      <masked>false</masked>
+      <name>action</name>
+   </variable>
+</TestCaseEntity>

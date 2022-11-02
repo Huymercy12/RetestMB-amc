@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ActiveAndInactiveAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d203b038-13ea-4211-98da-7fe0128f5898</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>630b0c0f-d51f-47e8-9f77-889c8f0d561d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b69c4163-ea74-42d9-8682-b092dc2b92fa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>303a9dec-52f3-4f3d-b374-d6477f392e51</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92feef5c-b979-40c3-aacc-f0af8cb62cfa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>275f6a77-197c-4fbf-95ba-e3d46eef23e7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>000967a2-dc51-4db2-95ac-b3e7537f4d52</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Xác nhận khóa tài khoản'</defaultValue>
+      <description></description>
+      <id>630b0c0f-d51f-47e8-9f77-889c8f0d561d</id>
+      <masked>false</masked>
+      <name>titlePopupLock</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bạn có chắc chắn muốn khóa tài khoản ?'</defaultValue>
+      <description></description>
+      <id>b69c4163-ea74-42d9-8682-b092dc2b92fa</id>
+      <masked>false</masked>
+      <name>contentPopupLock</name>
+   </variable>
+   <variable>
+      <defaultValue>'Xác nhận mở khóa tài khoản'</defaultValue>
+      <description></description>
+      <id>303a9dec-52f3-4f3d-b374-d6477f392e51</id>
+      <masked>false</masked>
+      <name>titlePopupUnlock</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bạn có chắc chắn mở muốn khóa tài khoản ?'</defaultValue>
+      <description></description>
+      <id>92feef5c-b979-40c3-aacc-f0af8cb62cfa</id>
+      <masked>false</masked>
+      <name>contentPopupUnlock</name>
+   </variable>
+   <variable>
+      <defaultValue>'Không thể khóa khách hàng do còn mặt bằng đang cho thuê hoặc đã đặt cọc'</defaultValue>
+      <description></description>
+      <id>275f6a77-197c-4fbf-95ba-e3d46eef23e7</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>000967a2-dc51-4db2-95ac-b3e7537f4d52</id>
+      <masked>false</masked>
+      <name>lockStatus</name>
+   </variable>
+</TestCaseEntity>

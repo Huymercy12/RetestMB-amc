@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UnitList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6d4786d-51e1-485e-8912-ca8450ebeb6b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da2d1f56-d8b4-457d-aae9-eea8ad910f40</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Nhập từ khóa tìm kiếm'</defaultValue>
+      <description></description>
+      <id>da2d1f56-d8b4-457d-aae9-eea8ad910f40</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AdvancedSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f04b2817-e84f-4e34-8f53-4ee71a698ade</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7729de2a-c842-4514-b18a-80888cdf0b9a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5f6bfbe1-720b-413f-9094-86991bf6622e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b7051a5b-046c-4a34-aec3-e4f4175aaf5c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7729de2a-c842-4514-b18a-80888cdf0b9a</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tìm kiếm nâng cao'</defaultValue>
+      <description></description>
+      <id>5f6bfbe1-720b-413f-9094-86991bf6622e</id>
+      <masked>false</masked>
+      <name>titleAdvancedSearch</name>
+   </variable>
+   <variable>
+      <defaultValue>'Trạng thái'</defaultValue>
+      <description></description>
+      <id>b7051a5b-046c-4a34-aec3-e4f4175aaf5c</id>
+      <masked>false</masked>
+      <name>contentAdvancedSearch</name>
+   </variable>
+</TestCaseEntity>

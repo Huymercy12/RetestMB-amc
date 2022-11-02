@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateFloor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfbfaf85-bced-4a19-89c9-df4bdd4b41bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ce9e766-9e01-4e7a-b63f-a7ac39fc1a04</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b940a5f-1e95-48f9-8125-871fafe2bffe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>77a1be2f-fdd8-4b41-bccc-bbfdf1205847</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tầng aljsdlkjalk'</defaultValue>
+      <description></description>
+      <id>5ce9e766-9e01-4e7a-b63f-a7ac39fc1a04</id>
+      <masked>false</masked>
+      <name>floorName</name>
+   </variable>
+   <variable>
+      <defaultValue>'1000000000'</defaultValue>
+      <description></description>
+      <id>0b940a5f-1e95-48f9-8125-871fafe2bffe</id>
+      <masked>false</masked>
+      <name>totalArea</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tạo mới thành công'</defaultValue>
+      <description></description>
+      <id>77a1be2f-fdd8-4b41-bccc-bbfdf1205847</id>
+      <masked>false</masked>
+      <name>messageSuccess</name>
+   </variable>
+</TestCaseEntity>

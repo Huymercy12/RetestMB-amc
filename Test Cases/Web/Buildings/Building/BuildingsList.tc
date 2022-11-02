@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BuildingsList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcdf2781-59a2-421b-881a-8a39fa66789e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3ab5a3c1-7a89-4edb-bf82-089790853b5a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Nhập từ khóa tìm kiếm'</defaultValue>
+      <description></description>
+      <id>3ab5a3c1-7a89-4edb-bf82-089790853b5a</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>

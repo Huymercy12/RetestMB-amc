@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateRecordRole</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d2364c7-fefa-447e-936a-3677eefe52d8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e077249d-ac04-4c06-af93-2bc1c39497f7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tạo mới thành công'</defaultValue>
+      <description></description>
+      <id>e077249d-ac04-4c06-af93-2bc1c39497f7</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>

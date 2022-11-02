@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>UAT</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>10</initValue>
+      <name>TIME_OUT</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Database information</description>
+      <initValue>[('DATABASE_PROTOCOL') : 'jdbc:oracle:thin:@', ('DATABASE_HOST') : '192.168.2.105', ('DATABASE_PORT') : '1526', ('DATABASE_SID') : 'xe', ('DATABASE_USERNAME') : 'QA_EVO_BUILDING', ('DATABASE_PASSWORD') : 'Evotek1234']</initValue>
+      <name>DATABASE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>for api</description>
+      <initValue>'http://qa-mbamc-bms.evotek.vn'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>for api</description>
+      <initValue>'http://qa-mbamc-bms-api.evotek.vn/iam'</initValue>
+      <name>URL_IAM</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>for api</description>
+      <initValue>'http://qa-mbamc-bms-api.evotek.vn/ticket'</initValue>
+      <name>URL_TICKET</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>for api</description>
+      <initValue>'http://qa-mbamc-bms-api.evotek.vn/survey'</initValue>
+      <name>URL_SURVEY</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>for api</description>
+      <initValue>'http://qa-mbamc-bms-api.evotek.vn/building'</initValue>
+      <name>URL_BUILDING</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>for web</description>
+      <initValue>'http://qa-mbamc-bms.evotek.vn/#/authentication/login'</initValue>
+      <name>URL_LOGIN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>for web</description>
+      <initValue>'http://qa-mbamc-bms.evotek.vn/#/dashboard'</initValue>
+      <name>URL_DASHBOARD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>accessToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>refreshToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>ID_NEW_ORGANIZATION_CONTACT</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('totalRecord') : '', ('endIndex') : '', ('beginIndex') : '']</initValue>
+      <name>INFOR_SIZE_OF_PAGINATION</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Quản trị hệ thống</description>
+      <initValue>[('username') : 'admin', ('password') : '123456aA@']</initValue>
+      <name>ACCOUNT_ADMIN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Trung tâm</description>
+      <initValue>[('username') : 'trungtam', ('password') : '123456aA@']</initValue>
+      <name>ACCOUNT_CENTER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Quản lý tòa nhà</description>
+      <initValue>[('username') : 'bqltnGrandtower', ('password') : '123456aA@']</initValue>
+      <name>ACCOUNT_MANAGER_MB001</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Chuyên viên</description>
+      <initValue>[('username') : 'chuyenvien1022', ('password') : '123456aA@']</initValue>
+      <name>ACCOUNT_EXPERT</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Kỹ sư trưởng</description>
+      <initValue>[('username') : 'kst1022', ('password') : '123456aA@']</initValue>
+      <name>ACCOUNT_TECHNICAL_LEADER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Giám sát dịch vụ</description>
+      <initValue>[('username') : 'gsdv1022', ('password') : '123456aA@']</initValue>
+      <name>ACCOUNT_SERVICES_MONITOR</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Audit</description>
+      <initValue>[('username') : 'audit', ('password') : '123456aA@']</initValue>
+      <name>ACCOUNT_AUDIT</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Resource/MobileApp/MBAMC_Dev.v1.0.2-2_1121190922-release.apk'</initValue>
+      <name>MOBILE_APP</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Appium Desired Capabilities for start app</description>
+      <initValue>[('platformName') : 'Android', ('appium:appPackage') : 'com.mbamc.building.dev', ('appium:appActivity') : 'vn.com.mbamc.building.MainActivity', ('noReset') : 'false', ('appWaitActivity') : '*', ('captureScreenshots') : 'true', ('sessionName') : 'Automation test session for MB_AMC']</initValue>
+      <name>DESIRED_CAPABILITIES</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://qa-mbamc-bms.evotek.vn/#/complaint/qr-list'</initValue>
+      <name>URL_QR</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

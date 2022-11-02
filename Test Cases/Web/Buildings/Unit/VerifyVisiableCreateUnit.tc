@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyVisiableCreateUnit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93716b83-ab95-42ed-96ce-89bdbcbd9721</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7b3f6c4d-d29a-42ad-b06e-a5ac14a038bf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>670fc220-e83c-4603-a09c-5235ee8a360f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b88c5136-d8fc-4a8a-916b-7adf42691851</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7e67c0e7-c648-49d3-9c87-84ce8dfbabe7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d4c0ada3-c9fd-43b8-be90-01a1ed7b8a53</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a7cfdd1-8af7-4728-ad2f-1edcab8f92fb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3ede9f63-7b6c-4fb2-8904-20f6e574ec4c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9a03d268-3f9c-4040-8fc8-c664cc11580f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d57ac7ff-65ea-49e4-a37d-3f5253ee0c7d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5fd00c3-4fc1-4d42-bde1-f8244b1a4a7f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>812dd597-b304-40aa-81f2-eda6b8973aae</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3cbaf039-6a55-4f29-9f31-c4ff0bdff29d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Thông tin mặt bằng'</defaultValue>
+      <description></description>
+      <id>7b3f6c4d-d29a-42ad-b06e-a5ac14a038bf</id>
+      <masked>false</masked>
+      <name>titleInfoUnit</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tòa nhà *'</defaultValue>
+      <description></description>
+      <id>670fc220-e83c-4603-a09c-5235ee8a360f</id>
+      <masked>false</masked>
+      <name>titleBuilding</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tầng *'</defaultValue>
+      <description></description>
+      <id>b88c5136-d8fc-4a8a-916b-7adf42691851</id>
+      <masked>false</masked>
+      <name>titleBuildingFloor</name>
+   </variable>
+   <variable>
+      <defaultValue>'Diện tích * (m 2)'</defaultValue>
+      <description></description>
+      <id>7e67c0e7-c648-49d3-9c87-84ce8dfbabe7</id>
+      <masked>false</masked>
+      <name>titleArea</name>
+   </variable>
+   <variable>
+      <defaultValue>'Giá cho thuê'</defaultValue>
+      <description></description>
+      <id>d4c0ada3-c9fd-43b8-be90-01a1ed7b8a53</id>
+      <masked>false</masked>
+      <name>titlePrice</name>
+   </variable>
+   <variable>
+      <defaultValue>'Phân loại*'</defaultValue>
+      <description></description>
+      <id>4a7cfdd1-8af7-4728-ad2f-1edcab8f92fb</id>
+      <masked>false</masked>
+      <name>titleUnitType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Trạng thái*'</defaultValue>
+      <description></description>
+      <id>3ede9f63-7b6c-4fb2-8904-20f6e574ec4c</id>
+      <masked>false</masked>
+      <name>titleStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ghi chú'</defaultValue>
+      <description></description>
+      <id>9a03d268-3f9c-4040-8fc8-c664cc11580f</id>
+      <masked>false</masked>
+      <name>titleNote</name>
+   </variable>
+   <variable>
+      <defaultValue>'Chọn tòa nhà là bắt buộc'</defaultValue>
+      <description></description>
+      <id>d57ac7ff-65ea-49e4-a37d-3f5253ee0c7d</id>
+      <masked>false</masked>
+      <name>msgBuildingIsRequired</name>
+   </variable>
+   <variable>
+      <defaultValue>'Diện tích không được để trống'</defaultValue>
+      <description></description>
+      <id>a5fd00c3-4fc1-4d42-bde1-f8244b1a4a7f</id>
+      <masked>false</masked>
+      <name>msgAreaNotBlank</name>
+   </variable>
+   <variable>
+      <defaultValue>'Nhập diện tích'</defaultValue>
+      <description></description>
+      <id>812dd597-b304-40aa-81f2-eda6b8973aae</id>
+      <masked>false</masked>
+      <name>placeholderArea</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ghi chú'</defaultValue>
+      <description></description>
+      <id>3cbaf039-6a55-4f29-9f31-c4ff0bdff29d</id>
+      <masked>false</masked>
+      <name>placeholderNote</name>
+   </variable>
+</TestCaseEntity>

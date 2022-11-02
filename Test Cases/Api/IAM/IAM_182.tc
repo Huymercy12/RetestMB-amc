@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IAM_182</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>263533b1-fb13-49b7-80fa-f049947b7bdc</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0541dc3d-df19-406d-a826-4a7953a17ec4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a3f523b2-1d0e-4253-9ab5-35ff261241e9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75a2dc55-7729-4e0f-ad31-0d5a6b1cfe26</id>
+      <masked>false</masked>
+      <name>statusCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23787adf-348e-4323-b556-5f3c8571f5b5</id>
+      <masked>false</masked>
+      <name>success</name>
+   </variable>
+</TestCaseEntity>

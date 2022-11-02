@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DeleteFloor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77785669-3e6e-4578-8a52-2a4670063f58</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e260ea9f-8391-4ad1-83b3-85e890e67f3e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7a22a13f-a8d9-44d1-8714-dbf4694a8d15</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a049f7cb-af44-4df1-8771-6d640761559d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9d4cdb05-87e1-4e96-9d77-2288ed234412</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>72352a90-133b-4b7b-b72a-de12cc9f6685</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tầng aaaaaaaaaaaa'</defaultValue>
+      <description></description>
+      <id>e260ea9f-8391-4ad1-83b3-85e890e67f3e</id>
+      <masked>false</masked>
+      <name>floorName</name>
+   </variable>
+   <variable>
+      <defaultValue>'1000000000'</defaultValue>
+      <description></description>
+      <id>7a22a13f-a8d9-44d1-8714-dbf4694a8d15</id>
+      <masked>false</masked>
+      <name>totalArea</name>
+   </variable>
+   <variable>
+      <defaultValue>'Xác nhận xóa tầng'</defaultValue>
+      <description></description>
+      <id>a049f7cb-af44-4df1-8771-6d640761559d</id>
+      <masked>false</masked>
+      <name>titleDeleteFloor</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bạn có chắc chắn xóa tầng này?'</defaultValue>
+      <description></description>
+      <id>9d4cdb05-87e1-4e96-9d77-2288ed234412</id>
+      <masked>false</masked>
+      <name>contentDeleteFloor</name>
+   </variable>
+   <variable>
+      <defaultValue>'Xóa thành công'</defaultValue>
+      <description></description>
+      <id>72352a90-133b-4b7b-b72a-de12cc9f6685</id>
+      <masked>false</masked>
+      <name>msgDeleteSuccess</name>
+   </variable>
+</TestCaseEntity>

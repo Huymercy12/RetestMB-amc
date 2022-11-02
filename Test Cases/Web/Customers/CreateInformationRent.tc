@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateInformationRent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd9bf73f-731d-4b7b-9198-d73438533940</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92abaccd-f233-4b52-8da4-4ed09de57f4a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b96c655a-6149-4d4a-9b65-225618929cd0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f4f8b62-3a7b-4e6a-b92a-039b8f893d33</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>92abaccd-f233-4b52-8da4-4ed09de57f4a</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b96c655a-6149-4d4a-9b65-225618929cd0</id>
+      <masked>false</masked>
+      <name>action</name>
+   </variable>
+   <variable>
+      <defaultValue>'Thành công'</defaultValue>
+      <description></description>
+      <id>9f4f8b62-3a7b-4e6a-b92a-039b8f893d33</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>

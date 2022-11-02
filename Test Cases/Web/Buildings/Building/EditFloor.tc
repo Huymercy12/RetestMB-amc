@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EditFloor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4d1f4dd-69cb-484f-8b16-6ac55b40604c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc52cec5-2fa9-41bb-8d39-93fb948d7d01</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a1d689a-67e9-4863-8e8c-f3c58ce45502</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9a2b74dc-bba3-42bf-ba4c-7a58fb7f2333</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1545bb4c-75c0-4b57-af85-f8e4fc9f091e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cac443d3-8f6e-4aea-abf3-e23f4c01938a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tầng ajshdlajsdlkasjd'</defaultValue>
+      <description></description>
+      <id>fc52cec5-2fa9-41bb-8d39-93fb948d7d01</id>
+      <masked>false</masked>
+      <name>floorName</name>
+   </variable>
+   <variable>
+      <defaultValue>'1000000000'</defaultValue>
+      <description></description>
+      <id>5a1d689a-67e9-4863-8e8c-f3c58ce45502</id>
+      <masked>false</masked>
+      <name>totalArea</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cập nhật tầng'</defaultValue>
+      <description></description>
+      <id>9a2b74dc-bba3-42bf-ba4c-7a58fb7f2333</id>
+      <masked>false</masked>
+      <name>titleEditFloor</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345678'</defaultValue>
+      <description></description>
+      <id>1545bb4c-75c0-4b57-af85-f8e4fc9f091e</id>
+      <masked>false</masked>
+      <name>areaFloor</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cập nhật thành công'</defaultValue>
+      <description></description>
+      <id>cac443d3-8f6e-4aea-abf3-e23f4c01938a</id>
+      <masked>false</masked>
+      <name>msgEditSuccess</name>
+   </variable>
+</TestCaseEntity>

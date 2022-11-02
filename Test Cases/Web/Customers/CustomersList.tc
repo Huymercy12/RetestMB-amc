@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CustomersList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f80d3f6-15a5-4326-9b77-a1e2bfe7efaf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>faf79c6a-7812-4946-af10-67ba8a8e4f36</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Nhập từ khóa tìm kiếm'</defaultValue>
+      <description></description>
+      <id>faf79c6a-7812-4946-af10-67ba8a8e4f36</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>

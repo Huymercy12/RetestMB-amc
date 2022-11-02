@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IAM_104</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6dd674f-4846-4da5-a849-a043debca444</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>09e3123f-2438-44b8-926b-a44f4a28bfbf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2adf3a69-8504-44d5-859d-9ca8ecaef242</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69f99f86-a1f5-4b89-bba8-f7c810b8fc19</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>09e3123f-2438-44b8-926b-a44f4a28bfbf</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2adf3a69-8504-44d5-859d-9ca8ecaef242</id>
+      <masked>false</masked>
+      <name>statusCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>69f99f86-a1f5-4b89-bba8-f7c810b8fc19</id>
+      <masked>false</masked>
+      <name>success</name>
+   </variable>
+</TestCaseEntity>
